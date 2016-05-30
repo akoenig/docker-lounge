@@ -1,4 +1,4 @@
-FROM rpi-node:4
+FROM hypriot/rpi-node:4
 
 ENV LOUNGE_VERSION 1.5.0
 ENV NODE_ENV production
